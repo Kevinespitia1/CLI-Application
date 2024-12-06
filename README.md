@@ -9,23 +9,20 @@ Being able to create a strong README file is crucial, when creating new projects
 4. Fill in the prompts accordingly
 5. Once completed a file name "Generated Readme" will be made
 
-## Solution Url
- link: 
-
 ## Screenshot
- Click here:
+ ![alt text](<utils/Screenshot 2024-12-05 at 9.24.25 PM.png>)
 
 ## Video Demonstration 
-Link:
+Link: https://app.screencastify.com/v3/watch/kGQmdIAZXfPkDvIqtlkR
 
 ## Built With
 1. Node.js
 2. Javascript
 
 ## Repository Link
-Link:
+Link: https://github.com/Kevinespitia1/CLI-Application
 
 ## Contributors
 Kevin Espitia
-Github:https://github.com/Kevinespitia1/CLI-Application
+Github: https://github.com/Kevinespitia1/
 
